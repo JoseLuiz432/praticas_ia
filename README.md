@@ -49,6 +49,22 @@ Conteúdo
     Fine-Tuning: Treinamento personalizado de modelos OpenAI como GPT-3 e GPT-4 para tarefas específicas.
     Integração com Aplicações: Utilização de modelos OpenAI em pipelines de produção e automação de tarefas.
 
+## Estrutura do repositório
+```
+├── notebooks/
+│   ├── 01_fundamentos_ia.ipynb
+│   ├── 02_regressao_logistica.ipynb
+│   ├── 03_redes_neurais_artificiais.ipynb
+│   ├── 06_gans.ipynb
+│   ├── 07_stable_diffusion.ipynb
+│   ├── 08_openai_finetuning.ipynb
+│   └── ... 
+├── data/
+│   ├── dataset1.csv
+│   └── dataset2.csv
+├── README.md
+└── requirements.txt
+```
 
 ## Requisitos
 Python 3.12
