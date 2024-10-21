@@ -1,0 +1,11 @@
+ItemID,Name,Category,Price,Stock
+1,Maçã,Fruta,0.50,100
+2,Banana,Fruta,0.30,150
+3,Laranja,Fruta,0.70,120
+4,Brócolis,Vegetal,1.20,80
+5,Cenoura,Vegetal,0.90,200
+6,Frango,Carne,5.00,50
+7,Bife,Carne,7.50,40
+8,Leite,Laticínios,1.50,100
+9,Queijo,Laticínios,3.00,60
+10,Pão,Padaria,2.00,70
