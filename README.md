@@ -49,6 +49,13 @@ Conteúdo
     Fine-Tuning: Treinamento personalizado de modelos OpenAI como GPT-3 e GPT-4 para tarefas específicas.
     Integração com Aplicações: Utilização de modelos OpenAI em pipelines de produção e automação de tarefas.
 
+9. Vae
+
+10. Sagemaker exemplos
+    
+    Exemplos de como treinar e subir um modelo utilizando o sagemaker
+
+
 ## Estrutura do repositório
 ```
 ├── notebooks/
